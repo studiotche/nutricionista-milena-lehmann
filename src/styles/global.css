@@ -2090,8 +2090,7 @@ body.menu-open {
   }
 
   .process-bg {
-    opacity: 0.05;
-    background-size: auto 65%, auto 65%;
+    display: none;
   }
 
   .step-item {
